@@ -1,6 +1,6 @@
 ### current project
 
-Deep Reinforcement Learning for Recommendation - Team the best_52
+Deep Reinforcement Learning for Recommendation - Team the best52
 
 <!--
 **hwan27/hwan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
