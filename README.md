@@ -1,6 +1,4 @@
-### current project
 
-Deep Reinforcement Learning for Recommendation - Team the best52
 
 
 <!--
